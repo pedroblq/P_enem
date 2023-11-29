@@ -28,7 +28,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 <p align="justify"> Por fim, a base de dados a ser utilizada apresenta 76 colunas e 1048576 linhas. </p>
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
+| Nome da coluna | Descrição |   Tipo   | Valores esperados |
+| -------------- | --------- | -------- | ----------------- |
+| TP_FAIXA_ETARIA  | Title |
 | Paragraph   | First paragraph. <br><br> Second paragraph. |
