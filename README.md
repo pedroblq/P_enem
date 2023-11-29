@@ -1,4 +1,3 @@
-
 # Entrega projeto PBC
 
 ## Introdução
@@ -17,7 +16,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## Descrição da base de dados
 
-<p align="justify"> A base de dados a ser utilizada no trabalho será os Microdados do Enem 2022, que podem ser encontrados </p> em: [Enem-Inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem).
+<p align="justify"> A base de dados a ser utilizada no trabalho será os Microdados do Enem 2022, que podem ser encontrados </p> em: <a href="https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem)" target="_blank">Enem-Inep</a>
 
 <p align="justify"> Os dados presentes na base, englobam o número de inscrição do participante, o qual é apenas uma máscara, logo não representa o número original, informações básicas sobre os inscritos, como a faixa etária, que varia de menor de 17 anos até maior de 70 anos, o sexo, estado civil, cor/raça, nacionalidade, o ano de conclusão do ensino médio, o tipo de escola que estudou no ensino médio (pública ou privada) e se o inscrito é considerado treineiro, no caso de não concluir o ensino médio em 2022. </p>
 
