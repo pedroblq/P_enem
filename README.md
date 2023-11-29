@@ -73,7 +73,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 - Faixa etária dos participantes;
 - Relação entre faixa etária e média de nota;
 - Participantes do sexo feminino e masculino;
-- Evolução da nota média durante os anos (redação, CH,CN,LC,MAT);
+- Evolução da nota média durante os anos (redação, CH, CN, LC, MAT);
 - Média da nota por estados;
 - Distribuição das notas da redação;
 - Relação entre redação nota 1000, cor/raça, renda, UF;
