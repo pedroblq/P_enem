@@ -52,12 +52,12 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_LC             | Nota da prova de Linguagens e Códigos | Float | 0 a 1000 |    
 | NU_NOTA_MT             | Nota da prova de Matemática | Float| 0 a 1000 |                              
 | TP_LINGUA              | Língua Estrangeira | Inteiro | 0 ou 1 |                                
-| TP_STATUS_REDACAO      | Situação da redação do <br />participante | Inteiro | 1 a 9 |
-| NU_NOTA_COMP1          | Nota da competência 1 - <br />Demonstrar domínio da <br />modalidade escrita formal da <br />Língua Portuguesa. | Inteiro | 0 a 200 |
-| NU_NOTA_COMP2          | Nota da competência 2 - <br />Compreender a proposta de <br />redação e aplicar conceitos <br />das várias áreas de <br />conhecimento para desenvolver <br />o tema, dentro dos limites <br />estruturais do texto <br />dissertativo-argumentativo <br />em prosa. | Inteiro |  0 a 200 |
-| NU_NOTA_COMP3          | Nota da competência 3 - <br />Selecionar, relacionar, <br />organizar e interpretar <br />informações, fatos, opiniões e <br />argumentos em defesa de um <br />ponto de vista. | Inteiro | 0 a 200 |
-| NU_NOTA_COMP4          | Nota da competência 4 - <br />Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. | Inteiro | 0 a 200 |
-| NU_NOTA_COMP5          | Nota da competência 5 - <br />Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
+| TP_STATUS_REDACAO      | Situação da redação do participante | Inteiro | 1 a 9 |
+| NU_NOTA_COMP1          | Nota da competência 1 - Demonstrar domínio da <br />modalidade escrita formal da <br />Língua Portuguesa. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP2          | Nota da competência 2 - Compreender a proposta de <br />redação e aplicar conceitos <br />das várias áreas de <br />conhecimento para desenvolver <br />o tema, dentro dos limites <br />estruturais do texto <br />dissertativo-argumentativo <br />em prosa. | Inteiro |  0 a 200 |
+| NU_NOTA_COMP3          | Nota da competência 3 - Selecionar, relacionar, <br />organizar e interpretar <br />informações, fatos, opiniões e <br />argumentos em defesa de um <br />ponto de vista. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP4          | Nota da competência 4 - Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP5          | Nota da competência 5 - Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
 | NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
-| Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda <br />mensal de sua família. | Caractere | “A” a “Q” |                
+| Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda mensal de sua família. | Caractere | “A” a “Q” |                
 
