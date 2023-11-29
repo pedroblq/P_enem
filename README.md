@@ -35,8 +35,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20
 | TP_SEXO                | Sexo                          |           |
 | TP_COR_RACA            | Cor/raça                      |           |
-| TP_ST_CONCLUSAO        | Situação de conclusão do      |
-                           Ensino Médio                                                         
+| TP_ST_CONCLUSAO        | Situação de conclusão do <br />Ensino Médio |                                                  
 | TP_ANO_CONCLUIU        |                               |          
 | TP_ESCOLA              |                                         
 | TP_ENSINO              |                                         
