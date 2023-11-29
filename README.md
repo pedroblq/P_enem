@@ -28,36 +28,39 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 <p align="justify"> Por fim, a base de dados a ser utilizada apresenta 76 colunas e 1048576 linhas. </p>
 
-|      Nome da coluna    |           Descrição           |   Tipo    |    Valores esperados    | 
+
+
+|  Nome da coluna        | Descrição                     | Tipo      | Valores esperados       | 
 | ---------------------- | ----------------------------- | --------- | ----------------------- |
 | TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20
-| TP_SEXO                |    
-| TP_COR_RACA            |
-| TP_ST_CONCLUSAO        |
-| TP_ANO_CONCLUIU        |
-| TP_ESCOLA              |
-| TP_ENSINO              |
-| IN_TREINEIRO           |
-| NO_MUNICIPIO_ESC       |
-| SG_UF_ESC              |
-| TP_DEPENDENCIA_ADM_ESC |
-| TP_PRESENCA_CN         |
-| TP_PRESENCA_CH         |
-| TP_PRESENCA_LC         |
-| TP_PRESENCA_MT         |
-| NU_NOTA_CN             |
-| NU_NOTA_CH             |
-| NU_NOTA_LC             |
-| NU_NOTA_MT             |
-| TP_LINGUA              |
-| TP_STATUS_REDACAO      |
-| NU_NOTA_COMP1          |
-| NU_NOTA_COMP2          |
-| NU_NOTA_COMP3          |
-| NU_NOTA_COMP4          |
-| NU_NOTA_COMP5          |
-| NU_NOTA_REDACAO        |
-| Q006                   |
+| TP_SEXO                | Sexo                          |           |
+| TP_COR_RACA            | Cor/raça                      |           |
+| TP_ST_CONCLUSAO        | Situação de conclusão do      |
+|                        | Ensino Médio                            
+| TP_ANO_CONCLUIU        |                                         
+| TP_ESCOLA              |                                         
+| TP_ENSINO              |                                         
+| IN_TREINEIRO           |                                          
+| NO_MUNICIPIO_ESC       |                                         
+| SG_UF_ESC              |                                         
+| TP_DEPENDENCIA_ADM_ESC |                                          
+| TP_PRESENCA_CN         |                                          
+| TP_PRESENCA_CH         |                                         
+| TP_PRESENCA_LC         |                                         
+| TP_PRESENCA_MT         |                                         
+| NU_NOTA_CN             |                               
+| NU_NOTA_CH             |                               
+| NU_NOTA_LC             |                               
+| NU_NOTA_MT             |                              
+| TP_LINGUA              |                               
+| TP_STATUS_REDACAO      |                               
+| NU_NOTA_COMP1          |                               
+| NU_NOTA_COMP2          |                               
+| NU_NOTA_COMP3          |                               
+| NU_NOTA_COMP4          |                              
+| NU_NOTA_COMP5          |                               
+| NU_NOTA_REDACAO        |                               
+| Q006                   |                               
 
 
 
