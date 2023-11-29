@@ -41,7 +41,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | TP_ENSINO              | Tipo de instituição que concluiu ou concluirá o <br />Ensino Médio | Inteiro | 1 ou 2 | 
 | IN_TREINEIRO           | Indica se o inscrito fez a prova com intuito de apenas <br />treinar seus conhecimentos | Inteiro | 0 ou 1 | 
 | NO_MUNICIPIO_ESC       | Nome do município da escola | String | “Vitória”, “São Paulo”, <br />“Rio de Janeiro” etc |
-| SG_UF_ESC              | Sigla da Unidade da Federação da escola | String | “ES”, “SP”, “RJ”, “AM" <br />etc |
+| SG_UF_ESC              | Sigla da Unidade da Federação da escola | String | “ES”, “SP”, “RJ”, <br />“AM" etc |
 | TP_DEPENDENCIA_ADM_ESC | Dependência administrativa (Escola) | Inteiro | 1 a 4 |   
 | TP_PRESENCA_CN         | Presença na prova objetiva de Ciências da Natureza | Inteiro | 0 a 2 |
 | TP_PRESENCA_CH         | Presença na prova objetiva de Ciências Humanas | Inteiro | 0 a 2 |   
@@ -53,11 +53,10 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_MT             | Nota da prova de Matemática | Float| 0 a 1000 |                              
 | TP_LINGUA              | Língua Estrangeira | Inteiro | 0 ou 1 |                                
 | TP_STATUS_REDACAO      | Situação da redação do participante | Inteiro | 1 a 9 |
-| NU_NOTA_COMP1          | Nota da competência 1 - Demonstrar domínio da <br />modalidade escrita formal da <br />Língua Portuguesa. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP1          | Nota da competência 1 - Demonstrar domínio da <br />modalidade escrita formal da Língua Portuguesa. | Inteiro | 0 a 200 |
 | NU_NOTA_COMP2          | Nota da competência 2 - Compreender a proposta de <br />redação e aplicar conceitos <br />das várias áreas de <br />conhecimento para desenvolver <br />o tema, dentro dos limites <br />estruturais do texto <br />dissertativo-argumentativo <br />em prosa. | Inteiro |  0 a 200 |
 | NU_NOTA_COMP3          | Nota da competência 3 - Selecionar, relacionar, <br />organizar e interpretar <br />informações, fatos, opiniões e <br />argumentos em defesa de um <br />ponto de vista. | Inteiro | 0 a 200 |
 | NU_NOTA_COMP4          | Nota da competência 4 - Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. | Inteiro | 0 a 200 |
 | NU_NOTA_COMP5          | Nota da competência 5 - Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
 | NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
 | Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda mensal de sua família. | Caractere | “A” a “Q” |                
-
