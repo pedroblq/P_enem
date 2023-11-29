@@ -62,3 +62,21 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_COMP5          | Nota da competência 5 - Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
 | NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
 | Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda mensal de sua família. | Caractere | “A” a “Q” |                
+
+## Possíveis análises
+
+- Relação entre  renda mensal e média de nota;
+- Relação entre média de nota e tipo de escola (privada, federal, estadual e municipal);
+- Relação entre tipo de escola e cor/raça;
+- Relação entre média de nota e cor/raça;
+- Relação entre ES, % de participantes de cor/raça, tipo de escola e média de nota;
+- Faixa etária dos participantes;
+- Relação entre faixa etária e média de nota;
+- Participantes do sexo feminino e masculino;
+- Evolução da nota média durante os anos (redação, CH,CN,LC,MAT);
+- Média da nota por estados;
+- Distribuição das notas da redação;
+- Relação entre redação nota 1000, cor/raça, renda, UF;
+- Em média qual das competências tem as menores notas.
+
+## Conclusão
