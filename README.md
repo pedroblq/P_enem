@@ -28,7 +28,9 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 <p align="justify"> Por fim, a base de dados a ser utilizada apresenta 76 colunas e 1048576 linhas. </p>
 
+## Características da base de dados que o grupo irá focar na análise
 
+### Tabela 1
 
 |  Nome da coluna        | Descrição                     | Tipo      | Valores esperados       | 
 | ---------------------- | ----------------------------- | --------- | ----------------------- |
