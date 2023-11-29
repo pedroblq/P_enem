@@ -32,32 +32,32 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 |  Nome da coluna        | Descrição                     | Tipo      | Valores esperados       | 
 | ---------------------- | ----------------------------- | --------- | ----------------------- |
-| TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20
-| TP_SEXO                | Sexo                          | Caractere |
-| TP_COR_RACA            | Cor/raça                      | Inteiro   |
-| TP_ST_CONCLUSAO        | Situação de conclusão do <br />Ensino Médio |                        
-| TP_ANO_CONCLUIU        | Ano de Conclusão do Ensino <br />Médio |                      
-| TP_ESCOLA              | Tipo de escola do Ensino <br />Médio |                                 
-| TP_ENSINO              | Tipo de instituição que <br />concluiu ou concluirá o <br />Ensino Médio |
-| IN_TREINEIRO           | Indica se o inscrito fez a <br />prova com intuito de apenas <br />treinar seus conhecimentos |
-| NO_MUNICIPIO_ESC       | Nome do município da escola |                                         
-| SG_UF_ESC              | Sigla da Unidade da <br />Federação da escola |                                       
-| TP_DEPENDENCIA_ADM_ESC | Dependência administrativa <br />(Escola) |                                         
-| TP_PRESENCA_CN         | Presença na prova objetiva de <br />Ciências da Natureza |                            
-| TP_PRESENCA_CH         | Presença na prova objetiva de <br />Ciências Humanas |  
-| TP_PRESENCA_LC         | Presença na prova objetiva de <br />Linguagens e Códigos |
-| TP_PRESENCA_MT         | Presença na prova objetiva de <br />Matemática |     
-| NU_NOTA_CN             | Nota da prova de Ciências da <br />Natureza |            
-| NU_NOTA_CH             | Nota da prova de Ciências <br />Humanas |           
-| NU_NOTA_LC             | Nota da prova de Linguagens <br />e Códigos |    
-| NU_NOTA_MT             | Nota da prova de Matemática |                              
-| TP_LINGUA              | Língua Estrangeira |                                
-| TP_STATUS_REDACAO      | Situação da redação do <br />participante |                               
-| NU_NOTA_COMP1          | Nota da competência 1 - <br />Demonstrar domínio da <br />modalidade escrita formal da <br />Língua Portuguesa. |
-| NU_NOTA_COMP2          | Nota da competência 2 - <br />Compreender a proposta de <br />redação e aplicar conceitos <br />das várias áreas de <br />conhecimento para desenvolver <br />o tema, dentro dos limites <br />estruturais do texto <br />dissertativo-argumentativo <br />em prosa. |
-| NU_NOTA_COMP3          | Nota da competência 3 - <br />Selecionar, relacionar, <br />organizar e interpretar <br />informações, fatos, opiniões e <br />argumentos em defesa de um <br />ponto de vista. |
-| NU_NOTA_COMP4          | Nota da competência 4 - <br />Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. |
-| NU_NOTA_COMP5          | Nota da competência 5 - <br />Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. |
-| NU_NOTA_REDACAO        | Nota da prova de redação |                               
-| Q006                   | Corresponde à questão 6 do <br />questionário socioeconômico, <br />o aluno deve informar a renda <br />mensal de sua família. |                
+| TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20 |
+| TP_SEXO                | Sexo                          | Caractere | "F" e "M" |
+| TP_COR_RACA            | Cor/raça                      | Inteiro   | 0 a 6 |
+| TP_ST_CONCLUSAO        | Situação de conclusão do <br />Ensino Médio | Inteiro | 1 a 4 |
+| TP_ANO_CONCLUIU        | Ano de Conclusão do Ensino <br />Médio | Inteiro | 0 a 16 |                       
+| TP_ESCOLA              | Tipo de escola do Ensino <br />Médio | Inteiro | 1 a 3 |
+| TP_ENSINO              | Tipo de instituição que <br />concluiu ou concluirá o <br />Ensino Médio | Inteiro | 1 ou 2 | 
+| IN_TREINEIRO           | Indica se o inscrito fez a <br />prova com intuito de apenas <br />treinar seus conhecimentos | Inteiro | 0 ou 1 | 
+| NO_MUNICIPIO_ESC       | Nome do município da escola | String | “Vitória”, “São Paulo”, <br />“Rio de Janeiro” etc |
+| SG_UF_ESC              | Sigla da Unidade da <br />Federação da escola | String | “ES”, “SP”, “RJ”, “AM" <br />etc |
+| TP_DEPENDENCIA_ADM_ESC | Dependência administrativa <br />(Escola) | Inteiro | 1 a 4 |   
+| TP_PRESENCA_CN         | Presença na prova objetiva de <br />Ciências da Natureza | Inteiro | 0 a 2 |
+| TP_PRESENCA_CH         | Presença na prova objetiva de <br />Ciências Humanas | Inteiro | 0 a 2 |   
+| TP_PRESENCA_LC         | Presença na prova objetiva de <br />Linguagens e Códigos | Inteiro | 0 a 2 | 
+| TP_PRESENCA_MT         | Presença na prova objetiva de <br />Matemática | Inteiro | 0 a 2 |      
+| NU_NOTA_CN             | Nota da prova de Ciências da <br />Natureza | Float | 0 a 1000 |            
+| NU_NOTA_CH             | Nota da prova de Ciências <br />Humanas | Float | 0 a 1000 |           
+| NU_NOTA_LC             | Nota da prova de Linguagens <br />e Códigos | Float | 0 a 1000 |    
+| NU_NOTA_MT             | Nota da prova de Matemática | Float| 0 a 1000 |                              
+| TP_LINGUA              | Língua Estrangeira | Inteiro | 0 ou 1 |                                
+| TP_STATUS_REDACAO      | Situação da redação do <br />participante | Inteiro | 1 a 9 |
+| NU_NOTA_COMP1          | Nota da competência 1 - <br />Demonstrar domínio da <br />modalidade escrita formal da <br />Língua Portuguesa. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP2          | Nota da competência 2 - <br />Compreender a proposta de <br />redação e aplicar conceitos <br />das várias áreas de <br />conhecimento para desenvolver <br />o tema, dentro dos limites <br />estruturais do texto <br />dissertativo-argumentativo <br />em prosa. | Inteiro |
+| NU_NOTA_COMP3          | Nota da competência 3 - <br />Selecionar, relacionar, <br />organizar e interpretar <br />informações, fatos, opiniões e <br />argumentos em defesa de um <br />ponto de vista. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP4          | Nota da competência 4 - <br />Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. | Inteiro | 0 a 200 |
+| NU_NOTA_COMP5          | Nota da competência 5 - <br />Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
+| NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
+| Q006                   | Corresponde à questão 6 do <br />questionário socioeconômico, <br />o aluno deve informar a renda <br />mensal de sua família. | Caractere | “A” a “Q” |                
 
