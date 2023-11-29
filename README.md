@@ -1,6 +1,6 @@
 # Entrega projeto PBC
 
-## Introdução
+## 1. Introdução
 
 <p align="justify"> O Exame Nacional do Ensino Médio (ENEM) é um dos passos mais importantes da
 trajetória de qualquer estudante no nosso país, porém é de conhecimento comum que nem
@@ -14,7 +14,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 <p align="justify"> Logo, diante da nossa hipótese, pode-se ser esperado que ao decorrer das análises, se obtenha um resultado que mostre como as diferenças avaliadas beneficiem o grupo social cujas condições estivessem mais favoráveis ao sucesso das notas do que a obtenção de um resultado negativo, visto que atualmente, dentre as diversas esferas da sociedade, os grupos que apresentam dificuldades estruturais e/ou econômicas, são mais suscetíveis à falha por não apresentarem as mesmas oportunidades que os demais. </p>
 
-## Descrição da base de dados
+## 2.1. Descrição da base de dados
 
 <p align="justify"> A base de dados a ser utilizada no trabalho será os Microdados do Enem 2022, que podem ser encontrados em: <a href="https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem" target="_blank">Enem-Inep</a>. </p>
 
@@ -28,7 +28,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 <p align="justify"> Por fim, a base de dados a ser utilizada apresenta 76 colunas e 1048576 linhas. </p>
 
-## Características da base de dados que o grupo irá focar na análise
+## 2.2 Características da base de dados que o grupo irá focar na análise
 
 ### Tabela 1
 
@@ -63,7 +63,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
 | Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda mensal de sua família. | Caractere | “A” a “Q” |                
 
-## Possíveis análises
+## 3. Possíveis análises
 
 - Relação entre  renda mensal e média de nota;
 - Relação entre média de nota e tipo de escola (privada, federal, estadual e municipal);
@@ -79,4 +79,4 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 - Relação entre redação nota 1000, cor/raça, renda, UF;
 - Em média qual das competências tem as menores notas.
 
-## Conclusão
+## 4. Conclusão
