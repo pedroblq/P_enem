@@ -27,3 +27,8 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 <p align="justify"> O último item da base de dados, apresenta as questões e as respostas do questionário socioeconômico, o qual é composto por 25 perguntas, que contêm o nível de escolaridade e a ocupação dos pais do participante, a quantidade de de pessoas que moram com o inscrito, a renda mensal da família, características da residência e se tem acesso à internet. </p>
 
 <p align="justify"> Por fim, a base de dados a ser utilizada apresenta 76 colunas e 1048576 linhas. </p>
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title |
+| Paragraph   | First paragraph. <br><br> Second paragraph. |
