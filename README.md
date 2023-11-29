@@ -30,7 +30,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## Características da base de dados que o grupo irá focar na análise
 
-<p align="center"> ### Tabela 1 </p>
+<p align="center"> Tabela 1 </p>
 
 |  Nome da coluna        | Descrição                     | Tipo      | Valores esperados       | 
 | ---------------------- | ----------------------------- | --------- | ----------------------- |
