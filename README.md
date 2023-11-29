@@ -36,7 +36,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | TP_SEXO                | Sexo                          |           |
 | TP_COR_RACA            | Cor/raça                      |           |
 | TP_ST_CONCLUSAO        | Situação de conclusão do      |
-|                        | Ensino Médio                            
+|                          Ensino Médio                            
 | TP_ANO_CONCLUIU        |                                         
 | TP_ESCOLA              |                                         
 | TP_ENSINO              |                                         
