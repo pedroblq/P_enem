@@ -35,21 +35,21 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20 |
 | TP_SEXO                | Sexo                          | Caractere | "F" e "M" |
 | TP_COR_RACA            | Cor/raça                      | Inteiro   | 0 a 6 |
-| TP_ST_CONCLUSAO        | Situação de conclusão do <br />Ensino Médio | Inteiro | 1 a 4 |
-| TP_ANO_CONCLUIU        | Ano de Conclusão do Ensino <br />Médio | Inteiro | 0 a 16 |                       
-| TP_ESCOLA              | Tipo de escola do Ensino <br />Médio | Inteiro | 1 a 3 |
-| TP_ENSINO              | Tipo de instituição que <br />concluiu ou concluirá o <br />Ensino Médio | Inteiro | 1 ou 2 | 
-| IN_TREINEIRO           | Indica se o inscrito fez a <br />prova com intuito de apenas <br />treinar seus conhecimentos | Inteiro | 0 ou 1 | 
+| TP_ST_CONCLUSAO        | Situação de conclusão do Ensino Médio | Inteiro | 1 a 4 |
+| TP_ANO_CONCLUIU        | Ano de Conclusão do Ensino Médio | Inteiro | 0 a 16 |                       
+| TP_ESCOLA              | Tipo de escola do Ensino Médio | Inteiro | 1 a 3 |
+| TP_ENSINO              | Tipo de instituição que concluiu ou concluirá o <br />Ensino Médio | Inteiro | 1 ou 2 | 
+| IN_TREINEIRO           | Indica se o inscrito fez a prova com intuito de apenas <br />treinar seus conhecimentos | Inteiro | 0 ou 1 | 
 | NO_MUNICIPIO_ESC       | Nome do município da escola | String | “Vitória”, “São Paulo”, <br />“Rio de Janeiro” etc |
-| SG_UF_ESC              | Sigla da Unidade da <br />Federação da escola | String | “ES”, “SP”, “RJ”, “AM" <br />etc |
-| TP_DEPENDENCIA_ADM_ESC | Dependência administrativa <br />(Escola) | Inteiro | 1 a 4 |   
-| TP_PRESENCA_CN         | Presença na prova objetiva de <br />Ciências da Natureza | Inteiro | 0 a 2 |
-| TP_PRESENCA_CH         | Presença na prova objetiva de <br />Ciências Humanas | Inteiro | 0 a 2 |   
-| TP_PRESENCA_LC         | Presença na prova objetiva de <br />Linguagens e Códigos | Inteiro | 0 a 2 | 
-| TP_PRESENCA_MT         | Presença na prova objetiva de <br />Matemática | Inteiro | 0 a 2 |      
-| NU_NOTA_CN             | Nota da prova de Ciências da <br />Natureza | Float | 0 a 1000 |            
-| NU_NOTA_CH             | Nota da prova de Ciências <br />Humanas | Float | 0 a 1000 |           
-| NU_NOTA_LC             | Nota da prova de Linguagens <br />e Códigos | Float | 0 a 1000 |    
+| SG_UF_ESC              | Sigla da Unidade da Federação da escola | String | “ES”, “SP”, “RJ”, “AM" <br />etc |
+| TP_DEPENDENCIA_ADM_ESC | Dependência administrativa (Escola) | Inteiro | 1 a 4 |   
+| TP_PRESENCA_CN         | Presença na prova objetiva de Ciências da Natureza | Inteiro | 0 a 2 |
+| TP_PRESENCA_CH         | Presença na prova objetiva de Ciências Humanas | Inteiro | 0 a 2 |   
+| TP_PRESENCA_LC         | Presença na prova objetiva de Linguagens e Códigos | Inteiro | 0 a 2 | 
+| TP_PRESENCA_MT         | Presença na prova objetiva de Matemática | Inteiro | 0 a 2 |      
+| NU_NOTA_CN             | Nota da prova de Ciências da Natureza | Float | 0 a 1000 |            
+| NU_NOTA_CH             | Nota da prova de Ciências Humanas | Float | 0 a 1000 |           
+| NU_NOTA_LC             | Nota da prova de Linguagens e Códigos | Float | 0 a 1000 |    
 | NU_NOTA_MT             | Nota da prova de Matemática | Float| 0 a 1000 |                              
 | TP_LINGUA              | Língua Estrangeira | Inteiro | 0 ou 1 |                                
 | TP_STATUS_REDACAO      | Situação da redação do <br />participante | Inteiro | 1 a 9 |
@@ -59,5 +59,5 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_COMP4          | Nota da competência 4 - <br />Demonstrar conhecimento <br />dos mecanismos linguísticos <br />necessários para a construção <br />da argumentação. | Inteiro | 0 a 200 |
 | NU_NOTA_COMP5          | Nota da competência 5 - <br />Elaborar proposta de <br />intervenção para o problema <br />abordado, respeitando os <br />direitos humanos. | Inteiro | 0 a 200 |
 | NU_NOTA_REDACAO        | Nota da prova de redação | Inteiro | 0 a 1000 |                               
-| Q006                   | Corresponde à questão 6 do <br />questionário socioeconômico, <br />o aluno deve informar a renda <br />mensal de sua família. | Caractere | “A” a “Q” |                
+| Q006                   | Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda <br />mensal de sua família. | Caractere | “A” a “Q” |                
 
