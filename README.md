@@ -34,7 +34,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 |  Nome da coluna        | Descrição                     | Tipo      | Valores esperados       | 
 | ---------------------- | ----------------------------- | --------- | ----------------------- |
-| TP_FAIXA_ETARIA        | Faixa etária                  | Inteiro   | 1 a 20 |
+| TP_FAIXA_ETARIA        | <p align="center"> Faixa etária </p>                 | Inteiro   | 1 a 20 |
 | TP_SEXO                | Sexo                          | Caractere | "F" e "M" |
 | TP_COR_RACA            | Cor/raça                      | Inteiro   | 0 a 6 |
 | TP_ST_CONCLUSAO        | Situação de conclusão do Ensino Médio | Inteiro | 1 a 4 |
