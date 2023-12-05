@@ -80,3 +80,5 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 - Em média qual das competências tem as menores notas.
 
 ## 4. Conclusão
+
+<p align="justify"> Conclusão a respeito das análises escolhidas após análise. </p>
