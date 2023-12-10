@@ -1,4 +1,4 @@
-# Entrega projeto PBC
+# Entrega projeto PBC | Anotações Julia
 
 ## 1. Introdução
 
@@ -81,4 +81,4 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## 4. Conclusão
 
-<p align="justify"> Conclusão a respeito das análises escolhidas após análise. </p>
+<p align="justify"> Podemos falar sobre as primeiras impressões a respeito da base de dados; como foi o processo do trabalho; e concluir falando a respeito do que achamos dos resultados. </p>
