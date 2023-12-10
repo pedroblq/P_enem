@@ -1,3 +1,5 @@
+[Status](https://img.shields.io/badge/Status-Em_Andamento-pink)
+
 # Entrega projeto PBC | Anotações Julia
 
 ## 1. Introdução
