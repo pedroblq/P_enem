@@ -1,6 +1,7 @@
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Andamento-pink)
 
-# Entrega projeto PBC | Anotações Julia
+<p align="center"> <img src= https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=19&duration=2500&pause=1200&color=F7F7F7&center=true&vCenter=true&random=false&width=420&lines=Anota%C3%A7%C3%B5es+Julia+sobre+o+trabalho+PBC /> </p>
+
 
 ## 1. Introdução
 
