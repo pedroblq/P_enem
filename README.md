@@ -1,5 +1,4 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=PINK&style=for-the-badge)
-
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Andamento-pink)
 
 # Entrega projeto PBC | Anotações Julia
 
