@@ -1,4 +1,4 @@
-[Status](https://img.shields.io/badge/Status-Em_Andamento-pink)
+https://img.shields.io/badge/Status-Em_Andamento-pink](https://img.shields.io/badge/Status-Em_Andamento-pink
 
 # Entrega projeto PBC | Anotações Julia
 
