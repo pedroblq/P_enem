@@ -65,6 +65,8 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## 3. Análise dos resultados
 
+<p align="justify"> Pode ser encontrada no arquivo pdf: <a href="git" target="_blank">Análise dos resultados-pdf</a>. </p> 
+
 ## 4. Metodologia
 
 <p align="justify"> Neste trabalho utilizamos um estudo de caso, com dados providos de uma base de dados fornecida pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). As análises foram feitas de forma quantitativa. A base de dados fornecida pelo INEP abrange todos os alunos que tomaram parte no Exame Nacional do Ensino Médio (ENEM). Para este trabalho consideramos a média do aluno em cada uma das 4 seções da prova (matemática, língua portuguesa, ciências da natureza e ciências humanas) e a redação, a classificação do aluno perante as cotas (raciais, de escola pública e sociais), faixa etária e o estado de realização da prova. </p>
