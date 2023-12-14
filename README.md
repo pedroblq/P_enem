@@ -66,7 +66,8 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 ## 3. Análise dos resultados
 
 <p align="justify"> Pode ser encontrada no arquivo pdf: <a href="https://github.com/pedroblq/P_enem/blob/main/Analise-dos-resultados.pdf" target="_blank">Análise dos resultados-pdf</a>. </p> 
-_Caso haja erro no arquivo de código upado acima, o mesmo pode ser acessado via link: <a href="[https://github.com/pedroblq/P_enem/blob/main/Analise-dos-resultados.pdf](https://colab.research.google.com/drive/1g4cQPz7CtCQK2pcF_1KwT5sLO6AmYuk7?usp=sharing)" target="_blank">Código via Google Colab</a>._
+
+<p align="justify">  Caso haja erro no arquivo de código upado acima, o mesmo pode ser acessado via link: https://colab.research.google.com/drive/1g4cQPz7CtCQK2pcF_1KwT5sLO6AmYuk7?usp=sharing </p> 
 
 ## 4. Metodologia
 
