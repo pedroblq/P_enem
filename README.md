@@ -63,22 +63,16 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 | NU_NOTA_REDACAO        | <p align="center"> Nota da prova de redação | Inteiro | 0 a 1000 |                               
 | Q006                   | <p align="center"> Corresponde à questão 6 do questionário socioeconômico, <br />o aluno deve informar a renda mensal de sua família. </p> | Caractere | “A” a “Q” |                
 
-## 3. Possíveis análises
+## 3. Análise dos resultados
 
-- Relação entre  renda mensal e média de nota;
-- Relação entre média de nota e tipo de escola (privada, federal, estadual e municipal);
-- Relação entre tipo de escola e cor/raça;
-- Relação entre média de nota e cor/raça;
-- Relação entre ES, % de participantes de cor/raça, tipo de escola e média de nota;
-- Faixa etária dos participantes;
-- Relação entre faixa etária e média de nota;
-- Participantes do sexo feminino e masculino;
-- Evolução da nota média durante os anos (redação, CH, CN, LC, MAT);
-- Média da nota por estados;
-- Distribuição das notas da redação;
-- Relação entre redação nota 1000, cor/raça, renda, UF;
-- Em média qual das competências tem as menores notas.
+## 4. Metodologia
 
-## 4. Conclusão
+<p align="justify"> Neste trabalho utilizamos um estudo de caso, com dados providos de uma base de dados fornecida pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). As análises foram feitas de forma quantitativa. A base de dados fornecida pelo INEP abrange todos os alunos que tomaram parte no Exame Nacional do Ensino Médio (ENEM). Para este trabalho consideramos a média do aluno em cada uma das 4 seções da prova (matemática, língua portuguesa, ciências da natureza e ciências humanas) e a redação, a classificação do aluno perante as cotas (raciais, de escola pública e sociais), faixa etária e o estado de realização da prova. </p>
+
+<p align="justify"> A programação foi toda feita na linguagem Python, utilizando de bibliotecas como pandas, numpy e matplotlib. Toda a programação foi feita no software Google Colab e o upload foi feito para o repositório do github: <a href="https://github.com/pedroblq/P_enem.git" target="_blank">Trabalho PBC - Github</a>. </p>
+
+<p align="justify"> Para a análise dos dados de 2022 direcionamos nossa atenção para as notas dos alunos e os possíveis limitantes presentes no contexto de cada um (tipo de educação, renda e sua cor de pele), para assim tentar localizar se existe alguma relação entre essas características com a média dos alunos, tanto nas questões objetivas quanto na redação. </p>
+
+## 5. Conclusão
 
 <p align="justify"> Conclusão a respeito das análises escolhidas após análise. </p>
