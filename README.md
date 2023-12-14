@@ -65,7 +65,7 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## 3. Análise dos resultados
 
-<p align="justify"> Pode ser encontrada no arquivo pdf: <a href="git" target="_blank">Análise dos resultados-pdf</a>. </p> 
+<p align="justify"> Pode ser encontrada no arquivo pdf: <a href="https://github.com/pedroblq/P_enem/blob/main/Analise-dos-resultados.pdf" target="_blank">Análise dos resultados-pdf</a>. </p> 
 
 ## 4. Metodologia
 
@@ -77,4 +77,13 @@ todos têm as mesmas oportunidades, assim gerando uma desigualdade entre eles. <
 
 ## 5. Conclusão
 
-<p align="justify"> Conclusão a respeito das análises escolhidas após análise. </p>
+<p align="justify"> Esse trabalho analisou os dados dos estudantes que prestaram o ENEM 2022, tendo como principal objetivo evidenciar as diferenças das notas dos alunos de diferentes etnias e classes sociais. Além disso, também foi avaliado o tipo de escola que o candidato estudou e sua idade ao fazer a prova. </p>
+
+<p align="justify"> Em primeiro momento já se torna evidente a necessidade das cotas raciais e sociais, uma vez que as maiores notas pertencem aos alunos que têm a maior renda, e quando analisamos por etnias vemos que os de pele branca tem destaque nas notas também. </p>
+
+<p align="justify"> Quando tratamos sobre os tipos de escola que os estudantes frequentaram, as particulares e federais tomam a liderança, o que em parte evidencia ainda mais a análise que liga a renda com o desempenho (no caso das particulares), e ressalta o grande valor da educação de qualidade das federais brasileiras. Outro fator a ser ressaltado é como a maior diferença das notas vem na prova de matemática, mostrando que é uma área onde o ensino público brasileiro deixa a desejar. </p>
+
+<p align="justify"> Ainda mais podemos perceber que a maioria dos candidatos estão na faixa de 17-19 anos, o que é esperado sendo essa a idade comum para os alunos terminarem o ensino médio. </p>
+
+<p align="justify"> Assim nossa hipótese que os grupos mais privilegiados teriam as maiores notas se concretiza, uma vez que os alunos brancos, com mais dinheiro e muitas vezes de escolas particulares ocupam as maiores notas. </p>
+
